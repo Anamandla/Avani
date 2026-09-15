@@ -1,0 +1,6 @@
+{
+  "name": "Avani",
+  "description": "Behavioural credit-intelligence platform for South African SMEs and lenders by Aeonium Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
